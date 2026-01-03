@@ -1,51 +1,29 @@
 👋 Hi, I’m Narayan
 
-I’m a System Administrator with 4+ years of experience supporting enterprise IT environments and cloud operations. I enjoy working close to the infrastructure layer where reliability, security, and problem solving really matter.
+💻 System Administrator | 🌐 Cloud & Infrastructure Support
+📍 Remote-first | 4+ years experience
 
-Currently, I’m sharpening my skills in Azure administration, cloud operations, and automation, with the goal of moving deeper into cloud-focused roles.
+I support enterprise IT environments with a strong focus on stability, security, and user experience.
+Most of my work revolves around Windows systems, cloud platforms, and supporting distributed teams.
 
-💼 What I Do
+🚀 What I Do
 
-Manage and support Windows-based systems and enterprise environments
+Manage Windows Server environments and user access
 
-Work with Microsoft Azure services and cloud infrastructure
+Support remote users across global teams
 
-Troubleshoot system, network, email, and application issues
+Troubleshoot system, network, email, and M365 issues
 
-Handle incident, service request, and change management through ticketing tools
+Work with Azure resources and cloud infrastructure
 
-Support users while maintaining security and compliance standards
+Handle incidents, requests, and changes using ticketing tools
 
-🛠️ Skills & Tools
+📜 Certifications
 
-Cloud: Azure (VMs, Storage, Networking, IAM basics)
+Microsoft Azure Fundamentals (AZ-900)
 
-Systems: Windows Server, Active Directory, Group Policy
+Microsoft Azure AI Fundamentals (AI-900)
 
-Networking: DNS, DHCP, VPN, basic firewall concepts
+Google Associate Cloud Engineer
 
-Tools: Ticketing systems, Microsoft 365, Remote support tools
-
-Other: Troubleshooting, documentation, process improvement
-
-🌱 Currently Learning
-
-Azure administration and architecture
-
-Automation and scripting (PowerShell basics)
-
-Cloud best practices and reliability concepts
-
-🎯 Career Focus
-
-Azure Administrator
-
-Cloud Operations / Cloud Engineer roles
-
-Building scalable, secure, and well-documented systems
-
-📫 Let’s Connect
-
-GitHub: You’re already here 🙂
-
-Open to collaboration, learning, and cloud-focused discussions
+Microsoft Azure Administrator (AZ-104) – in progress
